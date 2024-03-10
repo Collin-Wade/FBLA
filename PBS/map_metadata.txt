@@ -5,7 +5,6 @@ Name = Intro
 #-------------------------------
 [002]   # Town
 Name = The Burg
-Outdoor = true
 ShowArea = true
 Bicycle = true
 MapPosition = 0,13,12
@@ -38,35 +37,35 @@ ShowArea = true
 MapPosition = 0,13,10
 MapSize = 30,11
 #-------------------------------
-[008]
+[008]   # Tower
 Name = Lappet Town
 MapPosition = 0,13,12
 #-------------------------------
-[009]
+[009]   # Bike Shop
 Name = Cedolan City
 HealingSpot = 8,17,11
 MapPosition = 0,14,10
 #-------------------------------
-[010]
+[010]   # Cabin
 Name = Cedolan City
 MapPosition = 0,13,10
 BattleBack = indoor3
 Environment = Rock
 Flags = DisableBoxLink
 #-------------------------------
-[011]
+[011]   # Ma & Pop Shop
 Name = Cedolan City
 MapPosition = 0,14,10
 #-------------------------------
-[012]
+[012]   # Kays
 Name = Cedolan City
 MapPosition = 0,14,10
 #-------------------------------
-[013]
+[013]   # Gas Station
 Name = Cedolan City
 MapPosition = 0,14,10
 #-------------------------------
-[014]
+[014]   # City
 Name = Cedolan City
 MapPosition = 0,13,10
 #-------------------------------
