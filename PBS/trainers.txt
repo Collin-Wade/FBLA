@@ -1,1 +1,7 @@
-﻿
+﻿[OWNER_DAD, Dad]
+LoseText = Nice job kid, I'm giving you the business to continue on the legacy. I’m sure you’ll make me proud.
+Pokemon = DAD,1
+	Gender = male
+	Moves = WISDOM,NEGOTIATION,PLEAD,ASKNICELY
+	AbilityIndex = 0
+    	IV = 20,20,20,20,20,20

@@ -1,5 +1,13 @@
 ﻿#-------------------------------
 [DAD]
+Name = Dad 
+Types = EMPLOYED
+BaseStats = 100, 100, 100, 100, 100, 100
+GenderRatio = AlwaysMale
+GrowthRate = Erratic
+BaseExp = 1
+CatchRate = 255
+Moves = 0,WISDOM,0,NEGOTIATION,0,PLEAD,0,ASKNICELY
 #-------------------------------
 [MA]
 #-------------------------------
@@ -18,4 +26,14 @@
 [MARTINEZ]
 #-------------------------------
 [SHOLE]
+#-------------------------------
+[UNPAID_INTERN]
+Name = Joe 
+Types = EMPLOYED
+BaseStats = 100, 100, 100, 100, 100, 100
+GenderRatio = AlwaysMale
+GrowthRate = Erratic
+BaseExp = 1
+CatchRate = 255
+Moves = 0,PLEAD,0,ASKNICELY
 #-------------------------------

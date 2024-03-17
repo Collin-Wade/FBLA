@@ -1,13 +1,50 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
-[GUILT]
-Name = Megahorn
+[WISDOM]
+Name = Wisdom
 Type = EMPLOYED
 Category = Physical
-Power = 120
+Power = 50
 Accuracy = 85
-TotalPP = 10
+TotalPP = 0
 Target = NearOther
 FunctionCode = None
 Flags = Contact,CanProtect,CanMirrorMove
-Description = Using the guilt of a parent your father tells you that the phone goes both ways.
+Description = ???
+#-------------------------------
+[NEGOTIATION]
+Name = Negotiation
+Type = EMPLOYED
+Category = Special
+Power = 40
+Accuracy = 100
+TotalPP = 0
+Target = NearOther
+Priority = 1
+FunctionCode = None
+Flags = Contact,CanProtect,CanMirrorMove
+Description = ???
+#-------------------------------
+[PLEAD]
+Name = Plead
+Type = EMPLOYED
+Category = Special
+Power = 30
+Accuracy = 80
+TotalPP = 0
+Target = NearOther
+FunctionCode = None
+Flags = Contact,CanProtect,CanMirrorMove
+Description = ???
+#-------------------------------
+[ASKNICELY]
+Name = Ask Nicely
+Type = EMPLOYED
+Category = Special
+Power = 90
+Accuracy = 50
+TotalPP = 0
+Target = NearOther
+FunctionCode = None
+Flags = Contact,CanProtect,CanMirrorMove
+Description = ???
