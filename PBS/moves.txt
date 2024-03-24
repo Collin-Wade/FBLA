@@ -164,7 +164,7 @@ Description = ???
 #-------------------------------
 [ASKRAISE]
 Name = Ask for Raise
-Type EMPLOYED
+Type = EMPLOYED
 Category = Special
 Power = 50
 Accuracy = 70
