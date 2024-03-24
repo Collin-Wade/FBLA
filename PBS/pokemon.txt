@@ -7,7 +7,7 @@ GenderRatio = AlwaysMale
 GrowthRate = Erratic
 BaseExp = 1
 CatchRate = 255
-Moves = 0,WISDOM,0,NEGOTIATION,0,PLEAD,0,ASKNICELY
+Moves = 0,WISDOM,0,NEGOTIATION,6,CONFIDENCE,0,ASKNICELY
 #-------------------------------
 [MA]
 #-------------------------------
@@ -35,5 +35,5 @@ GenderRatio = AlwaysMale
 GrowthRate = Erratic
 BaseExp = 1
 CatchRate = 255
-Moves = 0,PLEAD,0,ASKNICELY
+Moves = 0,PLEAD,0,ASKNICELY,0,CONFIDENCE,0,ASKRAISE
 #-------------------------------
