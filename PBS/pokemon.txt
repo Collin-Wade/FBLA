@@ -1,34 +1,86 @@
 ﻿#-------------------------------
 [DAD]
-Name = Dad 
+Name = Dad
 Types = EMPLOYED
 BaseStats = 100, 100, 100, 100, 100, 100
 GenderRatio = AlwaysMale
 GrowthRate = Erratic
 BaseExp = 1
 CatchRate = 255
-Moves = 0,WISDOM,0,NEGOTIATION,6,CONFIDENCE,0,ASKNICELY
+Moves = 0,WISDOM,0,NEGOTIATION,0,CONFIDENCE,0,ASKNICELY
 #-------------------------------
 [MA]
+Name = Ma
+Types = EMPLOYED
+BaseStats = 100, 100, 100, 100, 100, 100
+GenderRatio = AlwaysFemale
+GrowthRate = Erratic
+BaseExp = 1
+CatchRate = 255
+Moves =  0,PLEAD
 #-------------------------------
 [POP]
+Name = Pop
+Types = EMPLOYED
+BaseStats = 100, 100, 100, 100, 100, 100
+GenderRatio = AlwaysMale
+GrowthRate = Erratic
+BaseExp = 1
+CatchRate = 255
+Moves = 0,PLEAD
 #-------------------------------
 [JERRY]
-#-------------------------------
-[LINDA]
-#-------------------------------
-[ZOOEY]
+Name = Jerry
+Types = EMPLOYED
+BaseStats = 100, 100, 100, 100, 100, 100
+GenderRatio = AlwaysMale
+GrowthRate = Erratic
+BaseExp = 1
+CatchRate = 255
+Moves = 0,PLEAD
 #-------------------------------
 [CHAD]
+Name = Chad
+Types = EMPLOYED
+BaseStats = 100, 100, 100, 100, 100, 100
+GenderRatio = AlwaysMale
+GrowthRate = Erratic
+BaseExp = 1
+CatchRate = 255
+Moves = 0,PLEAD
 #-------------------------------
 [STACY]
+Name = Stacy
+Types = EMPLOYED
+BaseStats = 100, 100, 100, 100, 100, 100
+GenderRatio = AlwaysFemale
+GrowthRate = Erratic
+BaseExp = 1
+CatchRate = 255
+Moves = 0,PLEAD
 #-------------------------------
 [MARTINEZ]
+Name = Martinez
+Types = EMPLOYED
+BaseStats = 100, 100, 100, 100, 100, 100
+GenderRatio = AlwaysMale
+GrowthRate = Erratic
+BaseExp = 1
+CatchRate = 255
+Moves = 0,PLEAD
 #-------------------------------
 [SHOLE]
+Name = Shole
+Types = EMPLOYED
+BaseStats = 100, 100, 100, 100, 100, 100
+GenderRatio = AlwaysMale
+GrowthRate = Erratic
+BaseExp = 1
+CatchRate = 255
+Moves = 0,PLEAD
 #-------------------------------
 [UNPAID_INTERN]
-Name = Joe 
+Name = Joe
 Types = EMPLOYED
 BaseStats = 100, 100, 100, 100, 100, 100
 GenderRatio = AlwaysMale

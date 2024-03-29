@@ -6,9 +6,9 @@ BaseMoney = 0
 [POKEMONTRAINER_Leaf]
 Name = Pokémon Trainer
 Gender = Female
-BaseMoney = 60
+BaseMoney = 0
 #-------------------------------
 [POKEMONTRAINER_Red]
 Name = Pokémon Trainer
 Gender = Male
-BaseMoney = 60
+BaseMoney = 0
