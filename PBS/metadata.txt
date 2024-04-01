@@ -14,22 +14,22 @@ BicycleBGM = Bicycle
 #-------------------------------
 [1]
 TrainerType = POKEMONTRAINER_Red
-WalkCharset = trainer_POKEMONTRAINER_Red
-RunCharset = boy_run
-CycleCharset = boy_bike
-SurfCharset = boy_surf
-DiveCharset = boy_surf
-FishCharset = boy_fish_offset
-SurfFishCharset = boy_fish_offset
+WalkCharset = MALE
+RunCharset = MALE
+CycleCharset = MALE
+SurfCharset = MALE
+DiveCharset = MALE
+FishCharset = MALE
+SurfFishCharset = MALE
 Home = 15,2,1,2
 #-------------------------------
 [2]
 TrainerType = POKEMONTRAINER_Leaf
-WalkCharset = trainer_POKEMONTRAINER_Leaf
-RunCharset = girl_run
-CycleCharset = girl_bike
-SurfCharset = girl_surf
-DiveCharset = girl_surf
-FishCharset = girl_fish_offset
-SurfFishCharset = girl_fish_offset
+WalkCharset = FEMALE
+RunCharset = FEMALE
+CycleCharset = FEMALE
+SurfCharset = FEMALE
+DiveCharset = FEMALE
+FishCharset = FEMALE
+SurfFishCharset = FEMALE
 Home = 15,2,1,2
