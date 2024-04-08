@@ -17,7 +17,7 @@ GenderRatio = AlwaysFemale
 GrowthRate = Erratic
 BaseExp = 1
 CatchRate = 255
-Moves =  0,PLEAD
+Moves = 0,TIMING,0,POSITIVITY,0,RAPPORT,0,STANCECALMING
 #-------------------------------
 [POP]
 Name = Pop
@@ -27,7 +27,7 @@ GenderRatio = AlwaysMale
 GrowthRate = Erratic
 BaseExp = 1
 CatchRate = 255
-Moves = 0,PLEAD
+Moves = 0,TIMING,0,POSITIVITY,0,COMPROMISE,0,BUILDTRUST
 #-------------------------------
 [JERRY]
 Name = Jerry
@@ -37,7 +37,7 @@ GenderRatio = AlwaysMale
 GrowthRate = Erratic
 BaseExp = 1
 CatchRate = 255
-Moves = 0,PLEAD
+Moves = 0,STRATIGIZE,0,FIRSTOFFER,0,ACTIVELISTENING,0,BUILDTRUST
 #-------------------------------
 [CHAD]
 Name = Chad
@@ -47,7 +47,7 @@ GenderRatio = AlwaysMale
 GrowthRate = Erratic
 BaseExp = 1
 CatchRate = 255
-Moves = 0,PLEAD
+Moves = 0,LEVERAGE,0,PRESSURE,0,COMPROMISE,0,STANCECOMMANDING
 #-------------------------------
 [STACY]
 Name = Stacy
@@ -57,7 +57,7 @@ GenderRatio = AlwaysFemale
 GrowthRate = Erratic
 BaseExp = 1
 CatchRate = 255
-Moves = 0,PLEAD
+Moves = 0,POSITIVITY,0,EXAGGERATE,0,URGENCY,0,CONFIDENCE
 #-------------------------------
 [MARTINEZ]
 Name = Martinez
@@ -67,7 +67,7 @@ GenderRatio = AlwaysMale
 GrowthRate = Erratic
 BaseExp = 1
 CatchRate = 255
-Moves = 0,PLEAD
+Moves = 0,BUILDTRUST,0,BRIBE,0,WEALTHBRAG,0,CLOSEDEAL
 #-------------------------------
 [SHOLE]
 Name = Shole
@@ -77,7 +77,7 @@ GenderRatio = AlwaysMale
 GrowthRate = Erratic
 BaseExp = 1
 CatchRate = 255
-Moves = 0,PLEAD
+Moves = 0,STANCEACCOMIDATING,0,DEFINEINTERESTS,0,FOCUS,0,ACTIVELISTENING
 #-------------------------------
 [UNPAID_INTERN]
 Name = Joe

@@ -3,69 +3,75 @@
 [001]   # Intro
 Name = Intro
 #-------------------------------
-[002]   # Town
+[002]   # Outside
 Name = The Burg
 ShowArea = true
 Bicycle = true
 MapPosition = 0,13,12
 BattleBack = field
 #-------------------------------
-[003]   # Tower Floor 1
-Name = Floor 1
+[003]   # Inside Cabin
+Name = Cabin
 ShowArea = true
 HealingSpot = 2,8,8
 MapPosition = 0,13,12
 #-------------------------------
-[004]   # Elevator
-Name = Pokémon Lab
+[004]   # Your Room
+Name = Your Room
+ShowArea = true
 MapPosition = 0,13,12
 #-------------------------------
-[005]   # Tower Floor 2
+[005]   # Tower
 Name = Floor 2
 ShowArea = true
 MapPosition = 0,13,11
 BattleBack = field
 #-------------------------------
-[006]   # Tower Floor 3
-Name = Floor 3
+[006]   # Floor 1
+Name = Floor 1
 ShowArea = true
 MapPosition = 0,13,11
 #-------------------------------
-[007]   # Tower Floor 4
-Name = Floor 4
+[007]   # Floor 2
+Name = Floor 2
 ShowArea = true
 MapPosition = 0,13,10
 MapSize = 30,11
 #-------------------------------
-[008]   # Tower
-Name = Lappet Town
+[008]   # Floor 3
+Name = Floor 3
+ShowArea = true
 MapPosition = 0,13,12
 #-------------------------------
-[009]   # Bike Shop
-Name = Cedolan City
+[009]   # Floor 4
+Name = Floor 4
+ShowArea = true
 HealingSpot = 8,17,11
 MapPosition = 0,14,10
 #-------------------------------
-[010]   # Cabin
-Name = Cedolan City
+[010]   # Floor 5
+Name = Floor 5
+ShowArea = true
 MapPosition = 0,13,10
 BattleBack = indoor3
 Environment = Rock
 Flags = DisableBoxLink
 #-------------------------------
-[011]   # Ma & Pop Shop
+[011]   # Floor 6
+Name = Floor 6
+ShowArea = true
+MapPosition = 0,14,10
+#-------------------------------
+[012]   # Floor 7
+Name = Floor 7
+ShowArea = true
+MapPosition = 0,14,10
+#-------------------------------
+[013]
 Name = Cedolan City
 MapPosition = 0,14,10
 #-------------------------------
-[012]   # Kays
-Name = Cedolan City
-MapPosition = 0,14,10
-#-------------------------------
-[013]   # Gas Station
-Name = Cedolan City
-MapPosition = 0,14,10
-#-------------------------------
-[014]   # City
+[014]
 Name = Cedolan City
 MapPosition = 0,13,10
 #-------------------------------
@@ -81,7 +87,7 @@ MapPosition = 0,13,10
 Name = Cedolan City
 MapPosition = 0,13,10
 #-------------------------------
-[018]
+[018]   # Characters/Events
 Name = Cedolan City
 MapPosition = 0,13,10
 #-------------------------------

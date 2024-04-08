@@ -72,7 +72,7 @@ Accuracy = 100
 TotalPP = 0
 Target = AllNearFoes
 Priority = 0
-FunctionCode = "None"
+FunctionCode = None
 Flags = Contact,CanProtect,CanMirrorMove
 EffectChance = 0
 Description = ???
@@ -93,16 +93,17 @@ Description = ???
 #-------------------------------
 [URGENCY]
 Name = Urgency
+
 Type = EMPLOYED
 Category = Special
 Power = 60
-Accuracy = 100 
+Accuracy = 100
 TotalPP = 0
 Target = AllNearFoes
 Priority = 1
 FunctionCode = "None"
 Flags = Contact,CanProtect,CanMirrorMove
-EffectChance = 0
+EffectChance = 100
 Description = ???
 #-------------------------------
 [STRATIGIZE]
@@ -115,7 +116,7 @@ Target = User
 Priority = 0
 FunctionCode = RaiseUserSpAtkSpDefSpd1
 Flags = Contact,CanProtect,CanMirrorMove
-EffectChance = 0
+EffectChance = 100
 Description = ???
 #-------------------------------
 [BUILDTRUST]
@@ -126,7 +127,7 @@ Accuracy = 0
 TotalPP = 0
 Target = User
 FunctionCode = LowerTargetSpAtk1
-EffectChance = 0
+EffectChance = 100
 Description = ???
 #-------------------------------
 [BRIBE]
@@ -137,7 +138,7 @@ Accuracy = 0
 TotalPP = 0
 Target = User
 FunctionCode = LowerTargetSpDef1
-EffectChance = 0
+EffectChance = 100
 Description = ???
 #-------------------------------
 [WEALTHBRAG]
@@ -148,7 +149,7 @@ Accuracy = 0
 TotalPP = 0
 Target = User
 FunctionCode = RaiseUserSpAtkSpDef1
-EffectChance = 0
+EffectChance = 100
 Description = ???
 #-------------------------------
 [CLOSEDEAL]
@@ -171,6 +172,7 @@ Accuracy = 70
 TotalPP = 0
 Target = AllNearFoes
 FunctionCode = FlinchTarget
+EffectChance = 70
 Description = ???
 #-------------------------------
 [FIRSTOFFER]
@@ -196,6 +198,7 @@ Accuracy = 80
 Target = AllNearFoes
 Priority = -1
 FunctionCode = HitTwoToThreeTimes
+EffectChance = 60
 TotalPP = 0
 Description = ???
 #-------------------------------
@@ -217,6 +220,7 @@ Category = Status
 TotalPP = 0
 Target = User
 FunctopnCode = RaiseUserSpAtkSpd1
+EffectChance = 100
 Description = ???
 #-------------------------------
 [EXAGGERATE]
@@ -224,9 +228,78 @@ Name = Exaggerate
 Type = EMPLOYED
 Category = Special
 Power = 15
-Accuracy = 95 
+Accuracy = 95
 Target = AllNearFoes
 TotalPP = 0
 FunctionCode = MultiTurnAttackPowersUpEachTurn
+EffectChance = 100
 Description = ???
 #-------------------------------
+[POSITIVITY]
+Name = Positivity
+Type = EMPLOYED
+Category = Status
+Accuracy = 100
+TotalPP = 10
+Target = AllNearFoes
+FunctionCode = ConfuzeTarget
+EffectChance = 100
+Description = ???
+#-------------------------------
+[PRESSURE]
+Name = Pressure
+Type = EMPLOYED
+Category = Special
+Power = 100
+Accuracy = 95
+TotalPP = 10
+Target = AllNearFoes
+Description = ???
+#-------------------------------
+[DEFINEINTERESTS]
+Name = Define Interests
+Type = EMPLOYED
+Category = Special
+Power = 80
+Accuracy = 90
+TotalPP = 10
+Target = AllNearFoes
+Description = ???
+#-------------------------------
+[LEVERAGE]
+Name = Leverage
+Type = EMPLOYED
+Category = Special
+Power = 40
+Accuracy = 90
+TotalPP = 10
+FunctionCode = HitTargetTwotoThreeTimes
+EffectChance = 80
+Description = ???
+#-------------------------------
+[STANCECOMMANDING]
+Name = Stance: Commanding
+Type = EMPLOYED
+Category = Status
+Target = User
+FunctionCode = RaiseUserSpAtk2
+EffectChance = 100
+Description = ???
+#-------------------------------
+[STANCECALMING]
+Name = Stance: Calming
+Type = EMPLOYED
+Category = Status
+Target = User
+FunctionCode = StartHealUserEachTurn
+EffectChance = 100
+Description = ???
+#-------------------------------
+[STANCEACCOMIDATING]
+Name = Stance: Accomidating
+Type = EMPLOYED
+Category = Status
+Target = User
+FunctionCode = RaiseUserSpDef2
+EffectChance = 100
+Description = ???

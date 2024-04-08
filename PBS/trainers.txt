@@ -1,7 +1,61 @@
-﻿[OWNER_DAD, Dad]
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[OWNER_DAD,Dad]
 LoseText = Nice job kid, I'm giving you the business to continue on the legacy. I’m sure you’ll make me proud.
-Pokemon = DAD,5
-	Gender = male
-	Moves = WISDOM,NEGOTIATION,PLEAD,ASKNICELY
-	AbilityIndex = 0
-    	IV = 20,20,20,20,20,20
+Pokemon = DAD,10
+    Moves = WISDOM,NEGOTIATION,PLEAD,ASKNICELY
+    AbilityIndex = 0
+    Gender = male
+    IV = 20,20,20,20,20,20
+#-------------------------------
+[OWNER_MA,Ma]
+LoseText = ...
+Pokemon = MA,25
+    Moves = TIMING,POSITIVITY,RAPPORT,STANCECALMING
+    AbilityIndex = 0
+    Gender = female
+    IV = 20,20,20,20,20,20
+#-------------------------------
+[OWNER_PA,Pop]
+LoseText = ...
+Pokemon = POP,20
+#-------------------------------
+[OWNER_JERRY,Jerry]
+LoseText = ...
+Pokemon = JERRY,30
+    Moves = TIMING,POSITIVITY,RAPPORT,STANCECALMING
+    AbilityIndex = 0
+    Gender = male
+    IV = 20,20,20,20,20,20
+#-------------------------------
+[OWNER_SHOLE,Shole]
+LoseText = ...
+Pokemon = SHOLE,35
+    Moves = TIMING,POSITIVITY,RAPPORT,STANCECALMING
+    AbilityIndex = 0
+    Gender = male
+    IV = 20,20,20,20,20,20
+#-------------------------------
+[OWNER_STACY,Stacy]
+LoseText = ...
+Pokemon = STACY,40
+    Moves = TIMING,POSITIVITY,RAPPORT,STANCECALMING
+    AbilityIndex = 0
+    Gender = female
+    IV = 20,20,20,20,20,20
+#-------------------------------
+[OWNER_CHAD,Chad]
+LoseText = ...
+Pokemon = CHAD,45
+    Moves = TIMING,POSITIVITY,RAPPORT,STANCECALMING
+    AbilityIndex = 0
+    Gender = male
+    IV = 20,20,20,20,20,20
+#-------------------------------
+[OWNER_BANK,Martinez]
+LoseText = ...
+Pokemon = MARTINEZ,50
+    Moves = TIMING,POSITIVITY,RAPPORT,STANCECALMING
+    AbilityIndex = 0
+    Gender = male
+    IV = 20,20,20,20,20,20

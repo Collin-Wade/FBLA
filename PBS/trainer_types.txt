@@ -1,4 +1,41 @@
-﻿[OWNER_DAD]
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[OWNER_DAD]
+Name = Owner
+Gender = Male
+BaseMoney = 0
+#-------------------------------
+[OWNER_MA]
+Name = Owner
+Gender = Female
+BaseMoney = 0
+#-------------------------------
+[OWNER_PA]
+Name = Owner
+Gender = Male
+BaseMoney = 0
+#-------------------------------
+[OWNER_JERRY]
+Name = Owner
+Gender = Male
+BaseMoney = 0
+#-------------------------------
+[OWNER_SHOLE]
+Name = Owner
+Gender = Male
+BaseMoney = 0
+#-------------------------------
+[OWNER_STACY]
+Name = Owner
+Gender = Female
+BaseMoney = 0
+#-------------------------------
+[OWNER_CHAD]
+Name = Owner
+Gender = Male
+BaseMoney = 0
+#-------------------------------
+[OWNER_BANK]
 Name = Owner
 Gender = Male
 BaseMoney = 0
