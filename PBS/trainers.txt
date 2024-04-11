@@ -20,7 +20,7 @@ Pokemon = MA,25
 LoseText = ...
 Pokemon = POP,20
 #-------------------------------
-[OWNER_JERRY,Jerry]
+[OWNER_JERRY,JERRY]
 LoseText = ...
 Pokemon = JERRY,30
     Moves = TIMING,POSITIVITY,RAPPORT,STANCECALMING
@@ -28,7 +28,7 @@ Pokemon = JERRY,30
     Gender = male
     IV = 20,20,20,20,20,20
 #-------------------------------
-[OWNER_SHOLE,Shole]
+[OWNER_SHOLE,SHOLE]
 LoseText = ...
 Pokemon = SHOLE,35
     Moves = TIMING,POSITIVITY,RAPPORT,STANCECALMING
@@ -36,7 +36,7 @@ Pokemon = SHOLE,35
     Gender = male
     IV = 20,20,20,20,20,20
 #-------------------------------
-[OWNER_STACY,Stacy]
+[OWNER_STACY,STACY]
 LoseText = ...
 Pokemon = STACY,40
     Moves = TIMING,POSITIVITY,RAPPORT,STANCECALMING
@@ -44,7 +44,7 @@ Pokemon = STACY,40
     Gender = female
     IV = 20,20,20,20,20,20
 #-------------------------------
-[OWNER_CHAD,Chad]
+[OWNER_CHAD,CHAD]
 LoseText = ...
 Pokemon = CHAD,45
     Moves = TIMING,POSITIVITY,RAPPORT,STANCECALMING
@@ -52,10 +52,11 @@ Pokemon = CHAD,45
     Gender = male
     IV = 20,20,20,20,20,20
 #-------------------------------
-[OWNER_BANK,Martinez]
+[OWNER_BANK, MARTINEZ]
 LoseText = ...
 Pokemon = MARTINEZ,50
     Moves = TIMING,POSITIVITY,RAPPORT,STANCECALMING
     AbilityIndex = 0
     Gender = male
     IV = 20,20,20,20,20,20
+#-------------------------------
