@@ -52,7 +52,7 @@ Pokemon = CHAD,45
     Gender = male
     IV = 20,20,20,20,20,20
 #-------------------------------
-[OWNER_BANK, MARTINEZ]
+[OWNER_BANK,MARTINEZ]
 LoseText = ...
 Pokemon = MARTINEZ,50
     Moves = TIMING,POSITIVITY,RAPPORT,STANCECALMING
@@ -60,3 +60,6 @@ Pokemon = MARTINEZ,50
     Gender = male
     IV = 20,20,20,20,20,20
 #-------------------------------
+[OWNER_JERRY,Jerry]
+LoseText = ...
+Pokemon = JERRY,35
