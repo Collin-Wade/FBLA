@@ -291,7 +291,7 @@ Name = Stance: Calming
 Type = EMPLOYED
 Category = Status
 Target = User
-FunctionCode = StartHealUserEachTurn
+FunctionCode = HealUserQuarterOfTotalHP
 EffectChance = 100
 Description = ???
 #-------------------------------
