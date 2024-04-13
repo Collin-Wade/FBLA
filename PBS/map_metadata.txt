@@ -53,9 +53,6 @@ MapPosition = 0,14,10
 Name = Floor 5
 ShowArea = true
 MapPosition = 0,13,10
-BattleBack = indoor3
-Environment = Rock
-Flags = DisableBoxLink
 #-------------------------------
 [011]   # Floor 6
 Name = Floor 6
