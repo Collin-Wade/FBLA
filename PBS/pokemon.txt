@@ -79,7 +79,7 @@ BaseExp = 1
 CatchRate = 255
 Moves = 0,STANCEACCOMIDATING,0,DEFINEINTERESTS,0,FOCUS,0,ACTIVELISTENING
 #-------------------------------
-[UNPAID_INTERN]
+[JOE]
 Name = Joe
 Types = EMPLOYED
 BaseStats = 100, 100, 100, 100, 100, 100
